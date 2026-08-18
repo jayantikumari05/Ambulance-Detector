@@ -70,4 +70,4 @@ python main.py -l  # For live webcam feed
 
 ## Authors
 
-- [Mantresh Khurana](https://github.com/mantreshkhurana)
+- [Jayanti Kumari](https://github.com/jayantikumari05)
