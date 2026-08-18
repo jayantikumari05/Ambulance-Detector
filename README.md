@@ -46,7 +46,7 @@ AmbuRouteAI is an AI-powered traffic management system that detects ambulances i
 Download [yolov8n.pt](https://github.com/ultralytics/assets/releases/download/v0.0.0/yolov8n.pt)
 
 ```bash
-git clone https://github.com/mantreshkhurana/AmbuRouteAI.git
+git clone https://github.com/jayantikumari05/AmbuRouteAI.git
 cd AmbuRouteAI
 python -m venv venv
 source venv/bin/activate
